@@ -73,7 +73,7 @@ After the completion of this course, students will be able to:
 ** References
 1. M. Huth and M. Ryan, ``Logic in Computer Science--Modeling and
    Reasoning About Systems'', Second Edition, Cambridge University
-   Press, 2004. (Units I,II,III and IV)
+   Press, 2004. (Units I,II,III and V)
 2. Uwe Schoning ``Logic for Computer Scientists'', Birkhauser, 1989.
    (Units I,II,IV)
 3. M. Ben-Ari, ``Mathematical Logic for Computer Science'', Second
